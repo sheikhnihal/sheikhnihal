@@ -54,7 +54,7 @@
 
 # 👨🏻‍💻 Projects:
 <a href="https://flowcv.me/nihalsheikh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=nihal.sheikh.portfolio&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=moviesme&theme=dark" />
 </a>
 
 <br>
