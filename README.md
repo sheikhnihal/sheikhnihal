@@ -53,10 +53,10 @@
 <br>
 
 # 👨🏻‍💻 Projects:
-<a href="https://flowcv.me/nihalsheikh">
+<a href="https://github.com/sheikhnihal/moviesme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=moviesme&theme=dark" />
 </a>
-<a href="https://flowcv.me/nihalsheikh">
+<a href="https://github.com/sheikhnihal/todo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=todo&theme=dark" />
 </a>
 
