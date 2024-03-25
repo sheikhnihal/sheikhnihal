@@ -53,10 +53,10 @@
 <br>
 
 # 👨🏻‍💻 Projects:
-<a href="https://github.com/sheikhnihal/moviesme">
+<a href="https://moviesme-react.netlify.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=moviesme&theme=dark" />
 </a>
-<a href="https://github.com/sheikhnihal/todo">
+<a href="https://clone-7deae.firebaseapp.com/#/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhnihal&repo=todo&theme=dark" />
 </a>
 
